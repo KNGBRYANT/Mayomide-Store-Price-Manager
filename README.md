@@ -1,0 +1,1 @@
+# Mayomide-Store-Price-Manager
